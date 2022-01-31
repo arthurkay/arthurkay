@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ArthurKay</h1>
+<h1 align="center">Hello World! 👋, I'm The Nerdy Geek</h1>
 <h3 align="center">A passionate full stack software developer</h3>
 
 <p align="left"> <a href="https://twitter.com/arthurkalikiti" target="blank"><img src="https://img.shields.io/twitter/follow/arthurkalikiti?logo=twitter&style=for-the-badge" alt="arthurkalikiti" /></a> </p>
